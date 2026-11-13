@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Haki</title>
+    <item>
+      <title>Haki 0.4.0</title>
+      <pubDate>Fri, 13 Nov 2026 19:32:38 GMT</pubDate>
+      <sparkle:version>0.4.0</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Mises à jour automatiques.</p><p>Bouton Signaler un problème (clic droit sur l&#x27;icône, menu Haki, Réglages).</p>]]></description>
+      <enclosure url="https://github.com/yaniceaouchiche-ops/haki-releases/releases/download/v0.4.0/Haki-0.4.0.zip" type="application/octet-stream" sparkle:edSignature="7vH8dZHCghtXLnwJ4ROjwd5dd59hPF2lWIbCLp7ILogVbSM7xOhxf6znHqGviPEWj6s7YB7C46101GcBntxMBg==" length="18798774" />
+    </item>
+  </channel>
+</rss>
