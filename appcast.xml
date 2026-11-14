@@ -3,6 +3,15 @@
   <channel>
     <title>Haki</title>
     <item>
+      <title>Haki 0.4.4</title>
+      <pubDate>Sat, 14 Nov 2026 01:39:43 GMT</pubDate>
+      <sparkle:version>0.4.4</sparkle:version>
+      <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Fenêtre Nouveautés : le logo Haki en haut à droite.</p>]]></description>
+      <enclosure url="https://github.com/yaniceaouchiche-ops/haki-releases/releases/download/v0.4.4/Haki-0.4.4.zip" type="application/octet-stream" sparkle:edSignature="B8KD+jzdElNLer2Ht39LC580XDhgS8JMljQAt/dYZ9g+MtKE3mKsd38bFEENUgKOV14VvREUktR8ogctRZZfAg==" length="18839936" />
+    </item>
+    <item>
       <title>Haki 0.4.3</title>
       <pubDate>Sat, 14 Nov 2026 01:25:26 GMT</pubDate>
       <sparkle:version>0.4.3</sparkle:version>
