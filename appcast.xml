@@ -3,6 +3,15 @@
   <channel>
     <title>Haki</title>
     <item>
+      <title>Haki 0.4.2</title>
+      <pubDate>Sat, 14 Nov 2026 00:46:35 GMT</pubDate>
+      <sparkle:version>0.4.2</sparkle:version>
+      <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Haki compte combien de Mac l&#x27;utilisent : une fois par jour, un numéro tiré au hasard, la version de Haki et celle de macOS. Rien d&#x27;autre. Réglages › Général › « Compter cette installation » pour l&#x27;arrêter.</p>]]></description>
+      <enclosure url="https://github.com/yaniceaouchiche-ops/haki-releases/releases/download/v0.4.2/Haki-0.4.2.zip" type="application/octet-stream" sparkle:edSignature="0re6alToRRopLkffuKEOFbUditjHqYFphEhxFpn9oiczDWa15KkCqPRKH4+t//QqClao6Xptp21+ZLCm79GxBw==" length="18807324" />
+    </item>
+    <item>
       <title>Haki 0.4.1</title>
       <pubDate>Fri, 13 Nov 2026 23:45:13 GMT</pubDate>
       <sparkle:version>0.4.1</sparkle:version>
