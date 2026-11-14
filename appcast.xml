@@ -3,6 +3,15 @@
   <channel>
     <title>Haki</title>
     <item>
+      <title>Haki 0.4.3</title>
+      <pubDate>Sat, 14 Nov 2026 01:25:26 GMT</pubDate>
+      <sparkle:version>0.4.3</sparkle:version>
+      <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Nouveautés : cette fenêtre, qui liste ce qui change à chaque version. Elle s&#x27;ouvre seule une fois après une mise à jour, et reste dans le menu Haki › « Nouveautés… ».</p><p>Le compteur anonyme ajoute des nombres par jour : réunions et durée, réunions ratées, envois Forge, mails de suivi, arrêts imprévus, et si le résumé par IA est actif. Jamais de titre, de nom ni de contenu.</p>]]></description>
+      <enclosure url="https://github.com/yaniceaouchiche-ops/haki-releases/releases/download/v0.4.3/Haki-0.4.3.zip" type="application/octet-stream" sparkle:edSignature="hJCOGkeVWgACHeB/MHIM6xW1kDHPXIVTOzOuhWTvAkeq76E3dUm1UQZdxmDi7iEXeIkysaO9//Qn8qI1857FBw==" length="18838223" />
+    </item>
+    <item>
       <title>Haki 0.4.2</title>
       <pubDate>Sat, 14 Nov 2026 00:46:35 GMT</pubDate>
       <sparkle:version>0.4.2</sparkle:version>
