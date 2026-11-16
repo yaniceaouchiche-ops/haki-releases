@@ -3,6 +3,15 @@
   <channel>
     <title>Haki</title>
     <item>
+      <title>Haki 0.4.6</title>
+      <pubDate>Mon, 16 Nov 2026 11:48:17 GMT</pubDate>
+      <sparkle:version>0.4.6</sparkle:version>
+      <sparkle:shortVersionString>0.4.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>La fenêtre de bienvenue ne reste plus au-dessus des autres applications : Réglages Système passe devant pour donner les autorisations.</p>]]></description>
+      <enclosure url="https://github.com/yaniceaouchiche-ops/haki-releases/releases/download/v0.4.6/Haki-0.4.6.zip" type="application/octet-stream" sparkle:edSignature="y974pvvhDoKbFXiuNGPus0YLdt9f332/XUMzhPh46FAscDJFzex1jsSmn3xm6wHk+w7JEEcDsJ5VJndTMUsVAw==" length="18839331" />
+    </item>
+    <item>
       <title>Haki 0.4.5</title>
       <pubDate>Sat, 14 Nov 2026 01:48:18 GMT</pubDate>
       <sparkle:version>0.4.5</sparkle:version>
