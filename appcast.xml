@@ -3,6 +3,15 @@
   <channel>
     <title>Haki</title>
     <item>
+      <title>Haki 0.4.7</title>
+      <pubDate>Mon, 16 Nov 2026 12:13:20 GMT</pubDate>
+      <sparkle:version>0.4.7</sparkle:version>
+      <sparkle:shortVersionString>0.4.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Ouvert depuis le dossier de téléchargement, Haki propose de s&#x27;installer dans Applications et redémarre : les mises à jour peuvent ensuite s&#x27;installer.</p>]]></description>
+      <enclosure url="https://github.com/yaniceaouchiche-ops/haki-releases/releases/download/v0.4.7/Haki-0.4.7.zip" type="application/octet-stream" sparkle:edSignature="Xe02njd6IfrfGbbBM89EbP0TX14rUy5AQfWGERuzx6WZ+yc0lXnNnGTFYea+CDnKT9dptm8WkNFyOuVNQDYFDw==" length="18844476" />
+    </item>
+    <item>
       <title>Haki 0.4.6</title>
       <pubDate>Mon, 16 Nov 2026 11:48:17 GMT</pubDate>
       <sparkle:version>0.4.6</sparkle:version>
