@@ -3,6 +3,15 @@
   <channel>
     <title>Haki</title>
     <item>
+      <title>Haki 0.4.8</title>
+      <pubDate>Tue, 24 Nov 2026 10:22:41 GMT</pubDate>
+      <sparkle:version>0.4.8</sparkle:version>
+      <sparkle:shortVersionString>0.4.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Pendant un appel, couper son micro dans Teams n&#x27;arrête plus l&#x27;enregistrement tant que les autres parlent.</p><p>« Signaler un problème » joint le dernier rapport de crash de Haki, pour trouver la cause plus vite.</p>]]></description>
+      <enclosure url="https://github.com/yaniceaouchiche-ops/haki-releases/releases/download/v0.4.8/Haki-0.4.8.zip" type="application/octet-stream" sparkle:edSignature="R4riYajbEIumI5lPbAbc70XIzccGY+LxSYbBl6JxlbxfypQIzifgSSQabFjVSXxFAkiwb6veQw1ZxNC25BLwBQ==" length="18852582" />
+    </item>
+    <item>
       <title>Haki 0.4.7</title>
       <pubDate>Mon, 16 Nov 2026 12:13:20 GMT</pubDate>
       <sparkle:version>0.4.7</sparkle:version>
