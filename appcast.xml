@@ -3,6 +3,15 @@
   <channel>
     <title>Haki</title>
     <item>
+      <title>Haki 0.4.9</title>
+      <pubDate>Tue, 24 Nov 2026 14:17:59 GMT</pubDate>
+      <sparkle:version>0.4.9</sparkle:version>
+      <sparkle:shortVersionString>0.4.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Sans casque, sur le micro du Mac, lancer une réunion Haki ne coupe plus le micro de Teams : vos interlocuteurs vous entendent toujours.</p>]]></description>
+      <enclosure url="https://github.com/yaniceaouchiche-ops/haki-releases/releases/download/v0.4.9/Haki-0.4.9.zip" type="application/octet-stream" sparkle:edSignature="UHlX1W76AawMLh7SWfCQ6RSAEjl5S8+76GP5BtlOTjsB9dQdbr0cG97hKPkEkAk4ZoFd4dMqKfeJIKQxKg/zAw==" length="18851844" />
+    </item>
+    <item>
       <title>Haki 0.4.8</title>
       <pubDate>Tue, 24 Nov 2026 10:22:41 GMT</pubDate>
       <sparkle:version>0.4.8</sparkle:version>
